@@ -12,7 +12,7 @@ You can find the presentation slides here:
 
 ## Demo using TensorFlow:
 
-You can find the code for the demo using [TensorFlow] (https://www.tensorflow.org/) [here](https://colab.research.google.com/drive/1qqxsBWaRhDre2aujTRGGXMJrSWzZftv1?usp=sharing)
+You can find the code for the demo using [TensorFlow](https://www.tensorflow.org/) [here](https://colab.research.google.com/drive/1qqxsBWaRhDre2aujTRGGXMJrSWzZftv1?usp=sharing)
 
 
 
