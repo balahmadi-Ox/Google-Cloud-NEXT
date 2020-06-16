@@ -7,7 +7,7 @@ The sheer volume of logs in corporate environments unveils an opportunity to app
  
 ## Presentation Slides
 
-You can find the presentation slides here: 
+You can find the presentation slides [here](https://github.com/balahmadi-Ox/Google-Cloud-NEXT/blob/master/DZ220-Know%20Yourself%2C%20Know%20Your%20Enemy%20Detecting%20Anomalous%20Behavior%20Using%20Machine%20Learning.pdf) 
 
 
 ## Demo using TensorFlow:
